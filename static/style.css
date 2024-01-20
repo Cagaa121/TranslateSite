@@ -1,0 +1,11 @@
+.main_div{
+      margin-top: 150px;
+}
+
+.body_lang{
+      background-color: rgb(86, 99, 175);
+}
+
+.area textarea{
+      resize: none;
+}
